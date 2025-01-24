@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Contact Maintainers"
+    url: "https://example.com/contact"
+    about: "Use this link if you need to reach out to the maintainers."
